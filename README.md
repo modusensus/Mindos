@@ -1,8 +1,8 @@
 # MindOS — Personal Growth OS
 
-> *A four-layer AI-powered system for people who think more than they act.*
+> *An AI-powered personal growth system for people who think more than they act.*
 
-MindOS is a Claude skill that builds a persistent, AI-enhanced personal growth tool directly inside claude.ai. It turns AI into a thinking partner that helps you capture thoughts, discover patterns, track growth, plan tasks, and get AI supervision — all in one widget.
+MindOS is a self-contained HTML widget that runs as a Claude.ai artifact or in any modern browser. It turns AI into a thinking partner that helps you capture thoughts, discover patterns, track growth, plan tasks, and get AI supervision — all in one widget.
 
 Works for anyone who thinks more than they act — students preparing for exams, designers building a portfolio, researchers writing papers, professionals tracking career direction, or anyone who wants a quieter way to make sense of their own mind.
 

@@ -249,6 +249,3 @@ This project is built as a Claude skill and is designed to be iterated on. Areas
 - Mobile-optimized layout
 - PWA / offline support
 
----
-
-*Built with Claude.*

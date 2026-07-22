@@ -212,10 +212,15 @@ mindos-skill/
 ├── README.md             — This file
 ├── widget.md             — Complete widget implementation (HTML/CSS/JS, single self-contained file)
 ├── LICENSE                — CC-BY-NC 4.0
-└── .gitignore
+├── .gitignore
+└── docs/
+    ├── devlog.md         — Development journal (design decisions, pitfalls, demo screenshots)
+    └── devlog-assets/    — 8 demo screenshots referenced by devlog.md
 ```
 
 The widget is a single self-contained HTML file inside a markdown code block. No build step. No npm. No framework. Just paste into Claude and render as an artifact.
+
+For the full development story — architecture decisions, pitfalls, and screenshots of all 8 tabs in action — see [docs/devlog.md](docs/devlog.md).
 
 ---
 
@@ -249,3 +254,6 @@ This project is built as a Claude skill and is designed to be iterated on. Areas
 - Mobile-optimized layout
 - PWA / offline support
 
+---
+
+*Built with Claude.*
